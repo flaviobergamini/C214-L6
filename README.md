@@ -33,6 +33,8 @@ interação direta dos scripts com o usuário pelo terminal do sistema operacion
 - [Git](https://git-scm.com/)
 - [NodeJS](https://nodejs.org/en/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
+
+
 Observação: Você pode usar a IDE de sua preferência, o Visual Studio Code é apenas uma sugestão.
 
 Clone o repositório em seu computador para poder acessar o projeto:
