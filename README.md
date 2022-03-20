@@ -27,6 +27,48 @@ interação direta dos scripts com o usuário pelo terminal do sistema operacion
 - Divisão;
 - Eleva um número ao quadrado.
 
+### :hammer_and_wrench: Instalação e Execução
+#### Preparação do ambiente no computador para executar o projeto
+- [Instalar Git](https://git-scm.com/)
+- [Instalar node.js](https://nodejs.org/en/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- Observação: Você pode usar a IDE de sua preferência, o Visual Studio Code é apenas uma sugestão.
+
+Clone o repositório em sseu computador para poder acessar o projeto:
+```
+$ git clone https://github.com/flaviobergamini/C214-L6.git
+```
+Para poder entrar dentro do repositório clonado usando o terminal, digite: 
+```
+$ cd C214-L6
+```
+
+#### Projeto "Exercício aula 2"
+- Para iniciar esse projeto, basta abrir o arquivo index.html em seu navegador web preferido, ir no console deste navegador e observar o que foi excrito pelos scripts. Neste projeto o NodeJS não é utilizado.
+
+#### Projeto "Exercício aula 3"
+<h4>Para iniciar esse projeto, será necessário seguir alguns passos no terminal do seu sistema usando os comandos do NodeJS:</h4>
+
+Acesse pelo terminal a pasta "Exercício aula3" e instale as dependências do nodeJS usando o comando:
+```
+npm install
+```
+
+Após as instalações das dependências do projeto forem concluídas, inicie o projeto usando o comando:
+```
+npm start
+```
+
+## :question: Dúvidas
+Envie um email ao desenvolvedor: flaviohenrique@gec.inatel.br
+
+## :gear: Autor
+
+* **Flávio Henrique Madureira Bergamini** - [Flávio](https://github.com/flaviobergamini)
+
+Sob a orientação da monitora:
+* **Rafaela de Moraes Papale** - [Rafaela](https://github.com/RafaelaPapale)
+
 
 
 
