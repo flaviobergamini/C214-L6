@@ -33,9 +33,9 @@ interação direta dos scripts com o usuário pelo terminal do sistema operacion
 - [Git](https://git-scm.com/)
 - [NodeJS](https://nodejs.org/en/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
-- Observação: Você pode usar a IDE de sua preferência, o Visual Studio Code é apenas uma sugestão.
+Observação: Você pode usar a IDE de sua preferência, o Visual Studio Code é apenas uma sugestão.
 
-Clone o repositório em sseu computador para poder acessar o projeto:
+Clone o repositório em seu computador para poder acessar o projeto:
 ```
 $ git clone https://github.com/flaviobergamini/C214-L6.git
 ```
@@ -45,17 +45,17 @@ $ cd C214-L6
 ```
 
 #### Projeto "Exercício aula 2"
-- Para iniciar esse projeto, basta abrir o arquivo index.html em seu navegador web preferido, ir no console deste navegador e observar o que foi excrito pelos scripts. Neste projeto o NodeJS não é utilizado.
+- Para iniciar esse projeto, basta abrir o arquivo index.html em seu navegador web preferido, ir no console deste navegador e observar o que foi escrito pelos scripts. Neste projeto o NodeJS não é utilizado.
 
 #### Projeto "Exercício aula 3"
 - Para iniciar esse projeto, será necessário seguir alguns passos no terminal do seu sistema usando os comandos do NodeJS:
 
-Acesse pelo terminal a pasta "Exercício aula3" e instale as dependências do nodeJS usando o comando:
+Acesse pelo terminal a pasta "Exercício aula 3" e instale as dependências do NodeJS usando o comando:
 ```
 npm install
 ```
 
-Após as instalações das dependências do projeto forem concluídas, inicie o projeto usando o comando:
+Após as instalações das dependências do projeto serem concluídas, inicie o projeto usando o comando:
 ```
 npm start
 ```
