@@ -30,8 +30,8 @@ interação direta dos scripts com o usuário pelo terminal do sistema operacion
 
 ### :hammer_and_wrench: Instalação e Execução
 #### Preparação do ambiente no computador para executar o projeto
-- [Instalar Git](https://git-scm.com/)
-- [Instalar node.js](https://nodejs.org/en/)
+- [Git](https://git-scm.com/)
+- [NodeJS](https://nodejs.org/en/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - Observação: Você pode usar a IDE de sua preferência, o Visual Studio Code é apenas uma sugestão.
 
