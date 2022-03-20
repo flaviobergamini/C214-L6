@@ -3,8 +3,9 @@
 <p align="center">
     <img src="https://miro.medium.com/max/875/1*UbwvZi4SUbf_BiKbSDEFeg.png">
 </p>
+Imagem retirada do site Medium: https://miro.medium.com/max/875/1*UbwvZi4SUbf_BiKbSDEFeg.png
 
-### :grey_exclamation: Descrição
+### :books: Descrição
 
 <p>Projetos de C214-L6, laboratório da disciplina de Engenharia de Software.</p>
 <p>Os projetos separados por pastas são projetos utilizando a linguagem JavaScript
@@ -47,7 +48,7 @@ $ cd C214-L6
 - Para iniciar esse projeto, basta abrir o arquivo index.html em seu navegador web preferido, ir no console deste navegador e observar o que foi excrito pelos scripts. Neste projeto o NodeJS não é utilizado.
 
 #### Projeto "Exercício aula 3"
-<h4>Para iniciar esse projeto, será necessário seguir alguns passos no terminal do seu sistema usando os comandos do NodeJS:</h4>
+- Para iniciar esse projeto, será necessário seguir alguns passos no terminal do seu sistema usando os comandos do NodeJS:
 
 Acesse pelo terminal a pasta "Exercício aula3" e instale as dependências do nodeJS usando o comando:
 ```
